@@ -11,7 +11,7 @@
 			"command": "uv",
 			"args": [
 				"--directory",
-				"C:\\Users\\223017934\\OneDrive - GE HealthCare\\Documents\\GE-Confidential\\AI-Utilities\\DB-MCP",
+				"C:\\Users\\location of above file",
 				"run",
 				"postgres-demo.py"
 			],
