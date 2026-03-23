@@ -6,7 +6,8 @@ AI Deployment strategies on Cloud
 3. For deploying backend application as **Docker container in AWS App Runner** refer - https://github.com/arijitdeb1/AI_In_Production/blob/main/Deploy_As_Containers/AWS_setup.md.
 4. For deploying a **SQL Agent in AWS App Runner which connects to a RDS PostgreSQL in private VPC and converse with Bedrock Foundation models** refer https://github.com/arijitdeb1/AI_In_Production/blob/main/Deploy_As_Containers/SQLAgent_Bedrock.md
 5. A **PostgreSQL MCP server** configured with VS Code refer - https://github.com/arijitdeb1/AI_In_Production/blob/main/MCP/README.md
-6. An OpenAI based **SQL Agent** exposed as a FastAPI app refer - https://github.com/arijitdeb1/AI_In_Production/blob/main/Deploy_As_Containers/sql_agent/openai_sql_agent.py 
+6. An OpenAI based **SQL Agent** exposed as a FastAPI app refer - https://github.com/arijitdeb1/AI_In_Production/blob/main/Deploy_As_Containers/sql_agent/openai_sql_agent.py
+7. A **React based Chatbot** to converse with above SQL Agent refer - https://github.com/arijitdeb1/AI_In_Production/blob/main/Deploy_As_Containers/frontend/sql_agent_frontend/README.md 
    
 
 <img width="335" height="275" alt="image" src="https://github.com/user-attachments/assets/edf92499-d236-4e9d-95d8-3b113fcbb033" />
