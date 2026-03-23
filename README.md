@@ -5,6 +5,7 @@ AI Deployment strategies on Cloud
 2. For deploying **FastAPI application as AWS Lambda in backend and S3 Static Web Hosting + CloudFront in frontend** refer - https://github.com/arijitdeb1/AI_In_Production/blob/main/Deploy_As_Lambda/README.md
 3. For deploying backend application as **Docker container in AWS App Runner** refer - https://github.com/arijitdeb1/AI_In_Production/blob/main/Deploy_As_Containers/AWS_setup.md.
 4. For deploying a **SQL Agent in AWS App Runner which connects to a RDS PostgreSQL in private VPC and converse with Bedrock Foundation models** refer https://github.com/arijitdeb1/AI_In_Production/blob/main/Deploy_As_Containers/SQLAgent_Bedrock.md
+5. A **PostgreSQL MCP server** configured with VS Code refer - https://github.com/arijitdeb1/AI_In_Production/blob/main/MCP/README.md
    
 
 <img width="335" height="275" alt="image" src="https://github.com/user-attachments/assets/edf92499-d236-4e9d-95d8-3b113fcbb033" />
