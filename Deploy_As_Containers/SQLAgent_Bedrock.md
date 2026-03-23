@@ -1,6 +1,6 @@
 # Deploying `bedrock_sql_agent` to AWS App Runner as a Docker Container
 
-This guide provides step-by-step instructions to deploy the `bedrock_sql_agent` application as a Docker container to AWS App Runner.
+This guide provides step-by-step instructions to deploy the [bedrock_sql_agent](./sql_agent/bedrock_sql_agent.py) application as a Docker container to AWS App Runner.
 
 ---
 
